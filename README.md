@@ -32,7 +32,7 @@
 ### <p align="center"> 💪 Top Languages </p>
 ###### <div align="center"> I’m currently Top Languages </div>
 <hr>
-<div>
+<div align="center" >
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=key1018&layout=compact&theme=onedark)](https://github.com/key1018/github-readme-stats) &nbsp;
 [![Eun Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=key1018&hide=stars&count_private=true&show_icons=true&&theme=onedark)](https://github.com/key1018/github-readme-stats) &nbsp;
