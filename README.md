@@ -3,7 +3,7 @@
 ##### 안녕하세요. 백엔드 개발자 김은영 입니다.
 ##### 저의 포트폴리오입니다. 많은 관심 부탁드립니다! <br>
 
-##### ➡️ <b>[포트폴리오🔗](https://key1018.github.io/portfolio_key/)
+##### ➡️ <b>[포트폴리오🔗](https://key1018.github.io/key1018/)
 
 ### <p align="center"> 🛠️ <b>Tech Stack</b> </p>
 ###### <div align="center"> I'm currently learning </div>
